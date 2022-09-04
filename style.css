@@ -5,6 +5,13 @@
     font-family: 'fluo';
     src: url('fontes/carter.ttf');
 }
+@font-face {
+    font-family: 'Amor';
+    src: url('fontes/_LBA.TTF');
+    font-weight: normal;
+    font-style: normal;
+           }
+
 
 :root {
     --cor0: #c5ebd6;
@@ -82,9 +89,9 @@ h1 {
 }
 
 .eu1 {
-    font-size: 2em;
+    font-size: 2.6em;
     color: yellow;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Amor', Times, serif
 }
 
 .link3 {
