@@ -24,6 +24,67 @@ h2 {
     color: #0d853b; 
  }
 
+ .red {
+    color: red;
+ }
+
+ .header-gb {
+    border-radius: 10px;
+    background-color: #25d0b6;
+ }
+
+ aside.gb {
+    
+    padding: 0px;
+    background-color: white;
+ }
+
+ aside.gb h2 {
+    padding: 10px;
+    font-size: 1em;
+    color: #6d6d6d;
+    text-align: center;
+ }
+
+ aside.gb p {
+    
+    padding: 10px;
+    text-align: center;
+    font-size: 0.9em;
+    font-style: normal;
+    font-family: Poppins;
+    color: #6d6d6d;
+ }
+
+ aside .header-gb h1 {
+    padding: 0px;
+    border-radius: 12px 12px 0px 0px;
+    color: white;
+    text-align: center;
+    background-color: #25d0b6;;
+    
+ }
+
+ aside.gb strong {
+    color: #25d0b6;
+ }
+
+ aside.gb h3 a {
+    padding: 2px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    background-color: #25d0b6;
+ }
+
+ aside.gb a:hover {
+    box-shadow: 1px 1px 5px black;
+    color: #25d0b6;;
+    text-decoration: none;
+    background-color: white;
+
+ }
+
  article > p {
     text-align: justify;
     margin-bottom: 10px;
@@ -41,6 +102,7 @@ aside {
     border-radius: 10px;
     padding: 10px;
     box-shadow: 3px 3px 8px rgba(26, 25, 25, 0.801);
+    
 }
 
 aside h2 {
@@ -53,6 +115,7 @@ aside p {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     font-weight: bold;
+    
 }
 
 .redes {
