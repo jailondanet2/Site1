@@ -19,6 +19,10 @@ main {
    
 }
 
+.menu-btn .tagtelegram img {
+    width: 2%;
+}
+
 p.tag img {
     width: 2%;
 }
