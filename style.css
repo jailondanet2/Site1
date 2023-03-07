@@ -39,7 +39,7 @@ h1 {
     color: white;
 }
 
-img.matilda {
+img .matilda {
     display: flex;
     width: 70%;
     margin: auto;
