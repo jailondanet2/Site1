@@ -39,7 +39,7 @@ h1 {
     color: white;
 }
 
-main img.matilda {
+img.matilda {
     display: flex;
     width: 70%;
     margin: auto;
@@ -47,10 +47,6 @@ main img.matilda {
     border-radius: 5px;
 }
 
-main {
-    padding: 10px;
-    padding-bottom: 80px;
-}
 
 h2 {
     padding: 10px;
@@ -83,14 +79,44 @@ a {
 
 .baixar {
     margin: auto;
-    text-align: center;
     display: flex;
+    justify-content: center;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+    background: #07529A;
+    box-shadow: 5px 5px 15px black;
+    text-shadow: 1px 1px 1px black;
+}
+
+.baixar2 {
+    margin: auto;
+    display: flex;
+    justify-content: center;
     color: white;
     padding: 10px;
     border-radius: 50px;
     background: green;
     box-shadow: 5px 5px 15px black;
     text-shadow: 1px 1px 1px black;
+}
+
+/* .container {
+    text-align: justify;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 5px;
+    border-radius: 50px;
+    background: green;
+    box-shadow: 5px 5px 15px black;
+    text-shadow: 1px 1px 1px black;
+} */
+
+.app {
+    color: white;
 }
 
 
